@@ -1,6 +1,6 @@
 # ERC20
 
-### deployment:
+## Deployment:
 ```console
 $ apt install nodejs
 ```
@@ -59,7 +59,7 @@ Uncomment and set "version" of your compiler (in my case it is 0.5.0), then conf
 $ truffle migrate --network <name_of_network>
 ```
 
-### usage:
+## Usage:
 
 ```console
 $ truffle console --network <name_of_network>
