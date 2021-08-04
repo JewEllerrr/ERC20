@@ -18,7 +18,7 @@
                                         };
 12) cd ..
 13) npm install truffle-hdwallet-provider
-14) nano truffle-config.js --> uncomment and set "version" of your compiler (in my case this is 0.5.0), then configure your "network" by this tutorial (https://andresaaap.medium.com/how-to-deploy-a-smart-contract-on-a-public-test-network-rinkeby-using-infura-truffle-8e19253870c4)
+14) nano truffle-config.js --> uncomment and set "version" of your compiler (in my case it is 0.5.0), then configure your "network" by this tutorial (https://andresaaap.medium.com/how-to-deploy-a-smart-contract-on-a-public-test-network-rinkeby-using-infura-truffle-8e19253870c4)
 15) truffle migrate --network <name_of_network>
 
 
