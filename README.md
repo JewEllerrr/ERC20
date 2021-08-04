@@ -37,8 +37,8 @@ $ cd ../migrations
 ```console
 $ nano 2_deploy_migration.js
 ```
-Paste code down below:
-```console
+Paste:
+```js
 const Token = artifacts.require("TDToken.sol");
 module.exports = function (deployer) {
 deployer.deploy(Token);
