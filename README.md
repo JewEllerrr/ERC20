@@ -1,6 +1,6 @@
 # ERC20
 
-##### deployment:
+### deployment:
 0) apt install nodejs
 1) apt install npm
 2) apt install git
@@ -22,5 +22,5 @@
 15) truffle migrate --network <name_of_network>
 
 
-##### usage:
+### usage:
 $ truffle console --network <name_of_network>
